@@ -1,0 +1,6 @@
+Google Photos este un serviciu de partajare și stocare a fotografiilor dezvoltat de Google. Acesta a fost anunțat în mai 2015 și separat de Google+, fosta rețea socială a companiei. Oferă utilizatorilor spațiu de stocare gratuit și nelimitat pentru fotografii de până la 16 megapixeli și videoclipuri cu rezoluție de până la 1080p. 
+
+Storage:
+Google Photos are trei setări de stocare: "Calitate înaltă", "Calitate originală" și "Calitate expresă". Calitatea înaltă include stocare foto și video nelimitată pentru fotografii de până la 16 megapixeli și videoclipuri de până la 1080p (rezoluții maxime pentru utilizatorii de smartphone-uri medii în 2015). Calitatea originală păstrează rezoluția originală și calitatea fotografiilor și videoclipurilor, dar utilizează cantitatea de stocare în contul Google al utilizatorilor.
+
+Eu folosesc aplicatia in special pentru feature-ul de stocare nelimitata a pozelor si a videclipurilor la o calitate decenta.
