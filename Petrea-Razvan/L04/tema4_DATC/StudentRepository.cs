@@ -28,6 +28,20 @@ namespace tema4_DATC
             await _studentsTable.ExecuteAsync(insertOperation);
         }
 
+        public async Task UpdateStudent(StudentEntity student)
+        {
+            var updateOperation = TableOperation.Replace(student);
+
+            await _studentsTable.ExecuteAsync(updateOperation);
+        }
+
+        public async Task DeleteStudent(StudentEntity student)
+        {
+            var deleteOperation = TableOperation.Delete(student);
+
+            await _studentsTable.ExecuteAsync(deleteOperation);
+        }
+
         public async Task<List<StudentEntity>> GetAllStudents()
         {
             var students = new List<StudentEntity>();
